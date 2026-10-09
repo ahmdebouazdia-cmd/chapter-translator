@@ -1,0 +1,16 @@
+{
+  "name": "chapter-translator",
+  "version": "1.0.0",
+  "description": "مترجم الفصول: تطبيق أندرويد (Capacitor) لترجمة الفصول بالذكاء الاصطناعي",
+  "private": true,
+  "license": "MIT",
+  "dependencies": {
+    "@capacitor/android": "^6.1.2",
+    "@capacitor/core": "^6.1.2",
+    "@capacitor/filesystem": "^6.0.1",
+    "@capacitor/share": "^6.0.1"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^6.1.2"
+  }
+}
